@@ -28,7 +28,7 @@ I'm a passionate Data Scientist and AI enthusiast currently pursuing my Masterâ€
 #### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white) 
 ![PL/SQL](https://img.shields.io/badge/PLSQL-003660?style=flat&logo=oracle&logoColor=white) 
-![MySQL Workbench](https://img.shields.io/badge/Django-092E20?style=flat&logo=MySQLWorkBench&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL-092E20?style=flat&logo=MySQLWorkBench&logoColor=white)
 
 #### DevOps & Collaboration
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white) 
