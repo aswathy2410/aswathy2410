@@ -1,6 +1,7 @@
 ## Hi there 👋
-I'm a passionate Data Scientist and AI enthusiast currently pursuing my Master’s in Artificial Intelligence at Jönköping University, Sweden. With over 4 years of experience as a System Engineer and Data Analyst, I specialize in transforming data into actionable insights and developing innovative AI solutions.
-
+I’m a Data Science enthusiast currently pursuing my Master’s in Artificial Intelligence at Jönköping University, Sweden. I love analyzing data and storytelling, and combining both to tranform raw information into compelling narratives that can inform and inspire. 
+Eager to apply my curiosity and skills in a real-time environment.
+Any opportunities would be appreciated. Thank you!
 ### Skills & Technologies
 
 #### Data Analysis Tools
