@@ -4,35 +4,36 @@ I'm a passionate Data Scientist and AI enthusiast currently pursuing my Master�
 ### Skills & Technologies
 
 #### Data Analysis Tools
-![Tableau](https://img.shields.io/badge/Tableau-E97E00?style=flat&logo=tableau&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power_BI-E60000?style=flat&logo=powerbi&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97E00?style=flat&logo=tableau&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power_BI-E60000?style=flat&logo=powerbi&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white) 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 #### AI & Machine Learning
-![scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)  
-![ResNet](https://img.shields.io/badge/ResNet-3C3C3C?style=flat&logo=mnist&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-117A8B?style=flat&logo=matplotlib&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) 
+![ResNet](https://img.shields.io/badge/ResNet-3C3C3C?style=flat&logo=mnist&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-117A8B?style=flat&logo=matplotlib&logoColor=white) 
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white)
 
 #### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
 #### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)  
-![PL/SQL](https://img.shields.io/badge/PLSQL-003660?style=flat&logo=oracle&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white) 
+![PL/SQL](https://img.shields.io/badge/PLSQL-003660?style=flat&logo=oracle&logoColor=white) 
 ![MySQL Workbench](https://img.shields.io/badge/Django-092E20?style=flat&logo=MySQLWorkBench&logoColor=white)
 
 #### DevOps & Collaboration
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)  
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white) 
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white) 
 ![Confluence](https://img.shields.io/badge/Confluence-0052CC?style=flat&logo=confluence&logoColor=white)
+
 
 <!--
 **aswathy2410/aswathy2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
