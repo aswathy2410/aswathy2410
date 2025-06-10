@@ -20,11 +20,11 @@ I'm a passionate Data Scientist and AI enthusiast currently pursuing my Masterâ€
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-- **Databases and Tools**  
+- **Databases and Tools:**  
   ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)   
   ![PL/SQL](https://img.shields.io/badge/PLSQL-003660?style=flat&logo=oracle&logoColor=white)  
-  ![MySQL Work Bench](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-- **DevOPs Tools & Platforms**  
+  ![MySQL Work Bench](https://img.shields.io/badge/Django-092E20?style=flat&logo=MySQLWorkBench&logoColor=white)
+- **DevOPs Tools & Platforms:**  
   ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)  
   ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)  
   ![Confluence](https://img.shields.io/badge/Confluence-0052CC?style=flat&logo=confluence&logoColor=white)
