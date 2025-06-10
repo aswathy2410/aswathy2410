@@ -5,7 +5,8 @@ I'm a passionate Data Scientist and AI enthusiast currently pursuing my Masterâ€
 
 #### Data Analysis Tools
 ![Tableau](https://img.shields.io/badge/Tableau-E97E00?style=flat&logo=tableau&logoColor=white) 
-![Power BI](https://img.shields.io/badge/Power_BI-E60000?style=flat&logo=powerbi&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power_BI-E60000?style=flat&logo=powerbi&logoColor=white)
+![KNIME](https://img.shields.io/badge/KNIME-E60000?style=flat&logo=knime&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white) 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
