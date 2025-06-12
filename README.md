@@ -7,11 +7,11 @@ Any opportunities would be appreciated. Thank you!
 ### Skills & Technologies
 
 #### Data Analysis Tools
-![Tableau](https://img.shields.io/badge/Tableau-E97E00?style=flat&logo=tableau&logoColor=white) 
-![Power BI](https://img.shields.io/badge/Power_BI-E97E00?style=flat&logo=powerbi&logoColor=white)
-![KNIME](https://img.shields.io/badge/KNIME-E97E00?style=flat&logo=knime&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-E97E00?style=flat&logo=sql&logoColor=white) 
-![Excel](https://img.shields.io/badge/Excel-E97E00?style=flat&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-3776AB?style=flat&logo=tableau&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power_BI-3776AB?style=flat&logo=powerbi&logoColor=white)
+![KNIME](https://img.shields.io/badge/KNIME-3776AB?style=flat&logo=knime&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-3776AB?style=flat&logo=sql&logoColor=white) 
+![Excel](https://img.shields.io/badge/Excel-3776AB?style=flat&logo=microsoft-excel&logoColor=white)
 
 #### AI & Machine Learning
 ![scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
