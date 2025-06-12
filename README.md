@@ -14,14 +14,14 @@ Any opportunities would be appreciated. Thank you!
 ![Excel](https://img.shields.io/badge/Excel-3776AB?style=flat&logo=microsoft-excel&logoColor=white)
 
 #### AI & Machine Learning
-![scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/ScikitLearn-3C3C3C?style=flat&logo=scikit-learn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-3C3C3C?style=flat&logo=tensorflow&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-3C3C3C?style=flat&logo=keras&logoColor=white) 
 ![ResNet](https://img.shields.io/badge/ResNet-3C3C3C?style=flat&logo=mnist&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-117A8B?style=flat&logo=matplotlib&logoColor=white) 
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-3C3C3C?style=flat&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-3C3C3C?style=flat&logo=numpy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3C3C3C?style=flat&logo=matplotlib&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/Seaborn-3C3C3C?style=flat&logo=seaborn&logoColor=white)
 
 #### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
