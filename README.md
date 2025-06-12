@@ -34,7 +34,7 @@ Any opportunities would be appreciated. Thank you!
 ![MySQL Workbench](https://img.shields.io/badge/MySQL-F05033?style=flat&logo=MySQLWorkBench&logoColor=white)
 
 #### DevOps & Collaboration
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-0052CC?style=flat&logo=git&logoColor=white) 
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white) 
 ![Confluence](https://img.shields.io/badge/Confluence-0052CC?style=flat&logo=confluence&logoColor=white)
 
