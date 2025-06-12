@@ -24,14 +24,14 @@ Any opportunities would be appreciated. Thank you!
 ![Seaborn](https://img.shields.io/badge/Seaborn-3C3C3C?style=flat&logo=seaborn&logoColor=white)
 
 #### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4DB33D?style=flat&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-4DB33D?style=flat&logo=c%2b%2b&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-4DB33D?style=flat&logo=java&logoColor=white)
 
 #### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white) 
-![PL/SQL](https://img.shields.io/badge/PLSQL-003660?style=flat&logo=oracle&logoColor=white) 
-![MySQL Workbench](https://img.shields.io/badge/MySQL-092E20?style=flat&logo=MySQLWorkBench&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-F05033?style=flat&logo=mongodb&logoColor=white) 
+![PL/SQL](https://img.shields.io/badge/PLSQL-F05033?style=flat&logo=oracle&logoColor=white) 
+![MySQL Workbench](https://img.shields.io/badge/MySQL-F05033?style=flat&logo=MySQLWorkBench&logoColor=white)
 
 #### DevOps & Collaboration
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white) 
