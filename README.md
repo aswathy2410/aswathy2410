@@ -1,5 +1,5 @@
 ## Hi there!
-I’m a Data Science enthusiast currently pursuing my Master’s in Artificial Intelligence at Jönköping University, Sweden. I love analyzing data and storytelling, and combining both to tranform raw information into compelling narratives that can inform and inspire.
+I’m a Data Science enthusiast currently pursuing my Master’s in Artificial Intelligence at Jönköping University, Sweden. I love analyzing data and storytelling, and combining both to transform raw information into compelling narratives that can inform and inspire.
 
 Eager to apply my curiosity and skills in a real-time environment.
 Any opportunities would be appreciated. Thank you!
