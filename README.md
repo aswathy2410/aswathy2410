@@ -10,10 +10,10 @@ Currently exploring LLMs, Retrieval-Augmented Generation (RAG), Explainable AI, 
 
 **Languages:** Python, Java, C++, SQL
 
-**AI & Data:** Machine Learning, LLMs, RAG, TensorFlow, Scikit-learn, Pandas, NumPy
+**AI & Data:** Data Science, Machine Learning, Deep Learning, LLMs, RAG, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib
 
 **Analytics:** Power BI, Tableau, KNIME
 
-**Databases:** PostgreSQL, MongoDB, MySQL
+**Databases:** MongoDB, MySQL, MsSQL
 
 **Tools:** Git, Jira, Confluence
