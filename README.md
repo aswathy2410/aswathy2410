@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there!
 
 I'm Aswathy, an AI Engineer and data enthusiast passionate about transforming complex information into meaningful insights.
 
